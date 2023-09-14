@@ -58,7 +58,7 @@ const Service = () => {
     infinite: true,
     speed: 500,
     autoplay: true,
-    autoplaySpeed: 100,
+    autoplaySpeed: 1500,
     lazyLoad: true,
     slidesToShow: 3,
     slidesToScroll: 1,
