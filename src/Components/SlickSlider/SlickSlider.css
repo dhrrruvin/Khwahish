@@ -1,0 +1,7 @@
+.slick-slide {
+    margin-inline: 8px;
+    position: relative;
+    height: 360px;
+    width: 300px;
+    background-color: blueviolet;
+}
