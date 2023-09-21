@@ -3,7 +3,7 @@ import './Cursor.css'
 
 const Cursor = ({cursorStyle, expand}) => {
 
-  console.log(cursorStyle);
+  console.log(cursorStyle)
   console.log(expand);
 
   return (
