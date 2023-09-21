@@ -105,6 +105,11 @@ button {
   cursor: pointer;
 }
 
+p::selection {
+  background-color: yellowgreen;
+  color: black;
+}
+
 ion-icon {
   pointer-events: none;
   --ionicon-stroke-width: 40px;
